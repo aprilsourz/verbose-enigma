@@ -1,0 +1,24 @@
+{
+  "name": "verbose-enigma",
+  "version": "1.0.0",
+  "description": "Repository name chosen by the github repo name suggester &lt;3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlofeirman/verbose-enigma.git"
+  },
+  "author": "arlo feirman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlofeirman/verbose-enigma/issues"
+  },
+  "homepage": "https://github.com/arlofeirman/verbose-enigma#readme",
+  "devDependencies": {
+    "esbuild": "^0.8.36",
+    "esbuild-svelte": "^0.4.0"
+  }
+}
